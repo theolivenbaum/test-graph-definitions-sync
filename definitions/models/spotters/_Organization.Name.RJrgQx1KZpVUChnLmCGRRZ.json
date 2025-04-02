@@ -1,0 +1,14 @@
+﻿{
+  "UID": "RJrgQx1KZpVUChnLmCGRRZ",
+  "Type": "_NlpSpotterFromNode",
+  "Timestamp": "2025-03-25 21:28:33Z",
+  "EdgeCount": 0,
+  "NodeType": "_Organization",
+  "FieldName": "Name",
+  "Language": "--",
+  "IncludeAlias": true,
+  "IgnoreCase": true,
+  "IgnoreNumbers": true,
+  "MinimumLength": 4,
+  "Exceptions": []
+}
