@@ -632,7 +632,7 @@
       "Name": "AICopyWarningMessage",
       "Type": "string",
       "Default": null,
-      "Value": "",
+      "Value": "test",
       "ValidValues": null,
       "LowerBound": null,
       "UpperBound": null,
