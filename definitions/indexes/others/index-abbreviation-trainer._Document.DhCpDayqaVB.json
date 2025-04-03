@@ -1,0 +1,20 @@
+﻿{
+  "Settings": [
+    {
+      "Name": "Language",
+      "Type": "Enum",
+      "Value": "German",
+      "Values": null
+    },
+    {
+      "Name": "Disable",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    }
+  ],
+  "UID": "DhCpDayqaVB",
+  "NodeType": "_Document",
+  "IndexType": "AbbreviationCapturerTrainerIndex",
+  "Tag": "Type: Mosaik.GraphDB.Indexes.AbbreviationCapturerTrainerIndex, Language: de, Tag: MosaikGraph-AbbreviationCapturerTrainer"
+}
