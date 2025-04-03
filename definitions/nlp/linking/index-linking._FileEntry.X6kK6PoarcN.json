@@ -1,5 +1,12 @@
 ﻿[
   {
+    "EntityNodeType": "MyNodeType",
+    "EdgeTypeToEntity": "_Mentions",
+    "EdgeTypeToNode": "_AppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  },
+  {
     "EntityNodeType": "_Contact",
     "EdgeTypeToEntity": "_Mentions",
     "EdgeTypeToNode": "_AppearsIn",
