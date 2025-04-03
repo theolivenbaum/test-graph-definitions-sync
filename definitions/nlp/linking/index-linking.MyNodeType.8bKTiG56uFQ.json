@@ -1,0 +1,16 @@
+﻿[
+  {
+    "EntityNodeType": "_Abbreviation",
+    "EdgeTypeToEntity": "_Mentions",
+    "EdgeTypeToNode": "_AppearsIn",
+    "DataNodeType": "MyNodeType",
+    "DataNodeField": "MyKey"
+  },
+  {
+    "EntityNodeType": "_Abbreviation",
+    "EdgeTypeToEntity": "_HasAbbreviation",
+    "EdgeTypeToNode": "_AbbreviationAppearsIn",
+    "DataNodeType": "MyNodeType",
+    "DataNodeField": "MyKey"
+  }
+]
