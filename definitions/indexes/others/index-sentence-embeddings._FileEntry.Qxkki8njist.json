@@ -81,7 +81,7 @@
     {
       "Name": "FileAgeCutoff",
       "Type": "Enum",
-      "Value": "SixMonths",
+      "Value": "OneYear",
       "Values": null
     },
     {
