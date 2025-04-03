@@ -1,0 +1,14 @@
+﻿{
+  "UID": "Cko9bJfmjboVs1ABjeZTvn",
+  "Type": "_NlpPipeline",
+  "Timestamp": "2025-04-03 09:40:53Z",
+  "EdgeCount": 0,
+  "Name": "MosaikGraph-DataParsing-PT",
+  "Description": "",
+  "Language": "pt",
+  "Models": [
+    "TQ1Ke4mqnisB29DwYBt9RD",
+    "8kSCqbCf7CBYhJWtRQnYxw",
+    "4ASt13x6z67cTQQZHid7Bu"
+  ]
+}
