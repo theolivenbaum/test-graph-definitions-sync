@@ -27,7 +27,7 @@
     {
       "Name": "BackgroundMaxExtractorProcessCount",
       "Type": "int",
-      "Value": "6",
+      "Value": "11",
       "Values": null
     },
     {
