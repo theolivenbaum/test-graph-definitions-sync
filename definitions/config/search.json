@@ -457,7 +457,7 @@
       "Name": "UseConceptNetSynonyms",
       "Type": "bool",
       "Default": "False",
-      "Value": "True",
+      "Value": "False",
       "ValidValues": [
         "True",
         "False"
