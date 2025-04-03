@@ -121,7 +121,7 @@
       "Name": "EnableCalendar",
       "Type": "bool",
       "Default": "False",
-      "Value": "True",
+      "Value": "False",
       "ValidValues": [
         "True",
         "False"
@@ -373,7 +373,7 @@
       "Name": "DisableAISearchByDefault",
       "Type": "bool",
       "Default": "False",
-      "Value": "False",
+      "Value": "True",
       "ValidValues": [
         "True",
         "False"
