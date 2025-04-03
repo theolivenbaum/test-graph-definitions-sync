@@ -7,6 +7,6 @@
   "Language": "--",
   "NodeType": "",
   "Patterns": [
-    "{\"Patterns\":[[{\"Mode\":1,\"Optional\":false,\"CaseSensitive\":false,\"Type\":2,\"POS\":null,\"Suffix\":null,\"Prefix\":null,\"Shape\":null,\"Token\":null,\"Set\":null,\"EntityType\":null,\"LeftSide\":null,\"RightSide\":null,\"ValidChars\":null,\"MinLength\":0,\"MaxLength\":0,\"MaxMatches\":10}]],\"Name\":\"\"}"
+    "{\"Patterns\":[[{\"Mode\":1,\"Optional\":false,\"CaseSensitive\":false,\"Type\":2,\"POS\":null,\"Suffix\":null,\"Prefix\":null,\"Shape\":\"123\",\"Token\":null,\"Set\":null,\"EntityType\":null,\"LeftSide\":null,\"RightSide\":null,\"ValidChars\":null,\"MinLength\":0,\"MaxLength\":0,\"MaxMatches\":10}]],\"Name\":\"\"}"
   ]
 }
