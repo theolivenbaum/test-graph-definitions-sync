@@ -27,7 +27,7 @@
     {
       "Name": "BackgroundMaxExtractorProcessCount",
       "Type": "int",
-      "Value": "8",
+      "Value": "6",
       "Values": null
     },
     {
@@ -39,7 +39,7 @@
     {
       "Name": "ExpressMaxExtractorProcessCount",
       "Type": "int",
-      "Value": "8",
+      "Value": "16",
       "Values": null
     },
     {
