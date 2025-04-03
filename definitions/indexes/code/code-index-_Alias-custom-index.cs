@@ -21,11 +21,12 @@ foreach (var uid in ToIndex)
     {
         failed.Add(uid);
     }
-// Async example:
-//  if (await TryIndexAsync(uid) == false)
-//  {
-//      failed.Add(uid);
-//  }
+
+    // Async example:
+    if (await TryIndexAsync(uid) == false)
+    {
+        failed.Add(uid);
+    }
 // HTTP request example:
 //  if (await TryIndexExternalAsync(uid, httpClient) == false)
 //  {
