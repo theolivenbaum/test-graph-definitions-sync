@@ -3,3 +3,4 @@
 [task: Curiosity.Tasks.Schedule("0 2 * * *")]
 
 Logger.LogInformation("Task run at: {0:u}", DateTimeOffset.UtcNow);
+Logger.LogInformation("Task run at: {0:u}", DateTimeOffset.UtcNow);
