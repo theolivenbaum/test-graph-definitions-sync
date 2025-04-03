@@ -1,4 +1,4 @@
-﻿[task: Curiosity.Tasks.Name("Custom Code Scheduled Task2")]
+﻿[task: Curiosity.Tasks.Name("Custom Code Scheduled Task 2")]
 [task: Curiosity.Tasks.UID("gFNYyeKvGatEdG9W1zToab")]
 [task: Curiosity.Tasks.Schedule("0 1 * * *")]
 
