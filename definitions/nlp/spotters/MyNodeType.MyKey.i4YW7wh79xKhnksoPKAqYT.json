@@ -1,0 +1,14 @@
+﻿{
+  "UID": "i4YW7wh79xKhnksoPKAqYT",
+  "Type": "_NlpSpotterFromNode",
+  "Timestamp": "2025-04-03 14:36:54Z",
+  "EdgeCount": 0,
+  "NodeType": "MyNodeType",
+  "FieldName": "MyKey",
+  "Language": "--",
+  "IncludeAlias": false,
+  "IgnoreCase": false,
+  "IgnoreNumbers": false,
+  "MinimumLength": 0,
+  "Exceptions": []
+}
