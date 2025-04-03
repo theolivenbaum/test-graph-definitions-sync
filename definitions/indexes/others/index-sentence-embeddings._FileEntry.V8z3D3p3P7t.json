@@ -33,7 +33,7 @@
     {
       "Name": "EnableAISearch",
       "Type": "bool",
-      "Value": "True",
+      "Value": "False",
       "Values": null
     },
     {
