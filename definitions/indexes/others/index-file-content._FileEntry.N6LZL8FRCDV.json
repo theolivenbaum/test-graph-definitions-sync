@@ -45,7 +45,7 @@
     {
       "Name": "MaximumFileSizeToExtractMB",
       "Type": "int",
-      "Value": "1000",
+      "Value": "2000",
       "Values": null
     },
     {
