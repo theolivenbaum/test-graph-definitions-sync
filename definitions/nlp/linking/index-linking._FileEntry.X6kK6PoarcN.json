@@ -1,0 +1,37 @@
+﻿[
+  {
+    "EntityNodeType": "_Contact",
+    "EdgeTypeToEntity": "_Mentions",
+    "EdgeTypeToNode": "_AppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  },
+  {
+    "EntityNodeType": "_Abbreviation",
+    "EdgeTypeToEntity": "_Mentions",
+    "EdgeTypeToNode": "_AppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  },
+  {
+    "EntityNodeType": "_Organization",
+    "EdgeTypeToEntity": "_Mentions",
+    "EdgeTypeToNode": "_AppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  },
+  {
+    "EntityNodeType": "_Contact",
+    "EdgeTypeToEntity": "_Mentions",
+    "EdgeTypeToNode": "_AppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  },
+  {
+    "EntityNodeType": "_Abbreviation",
+    "EdgeTypeToEntity": "_HasAbbreviation",
+    "EdgeTypeToNode": "_AbbreviationAppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  }
+]
