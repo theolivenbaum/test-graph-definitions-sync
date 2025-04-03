@@ -1,0 +1,14 @@
+{
+  "UID": "231",
+  "Name": "FakeNode",
+  "Type": "Node",
+  "Key": "ID",
+  "Fields": [
+    {
+      "SchemaType": "Field",
+      "Name": "ID",
+      "Type": "string"
+    }
+  ],
+  "DeletedFieldNames": []
+}
