@@ -21,7 +21,7 @@
     "DataNodeField": ""
   },
   {
-    "EntityNodeType": "_Token",
+    "EntityNodeType": "_Contact",
     "EdgeTypeToEntity": "_Mentions",
     "EdgeTypeToNode": "_AppearsIn",
     "DataNodeType": "_FileEntry",
@@ -35,7 +35,7 @@
     "DataNodeField": ""
   },
   {
-    "EntityNodeType": "_Contact",
+    "EntityNodeType": "_Token",
     "EdgeTypeToEntity": "_Mentions",
     "EdgeTypeToNode": "_AppearsIn",
     "DataNodeType": "_FileEntry",
