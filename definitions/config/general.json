@@ -1,1 +1,198 @@
-﻿"{\r\n  \"PipelineMapping\": {\r\n    \"16658825250174978295\": \"6QEMV4UU6xCJLr6s5p4kaj\",\r\n    \"158377989328712918\": \"Cko9bJfmjboVs1ABjeZTvn\",\r\n    \"17028683369285214394\": \"dBcqieijLeiWNQ4u6XWdyy\",\r\n    \"10890739575932513094\": \"GNvTbf1k65bCYeW5UDezT8\",\r\n    \"17840935489751241698\": \"7wQocEYJSdqFqhSm1sEQsy\",\r\n    \"15226646071789036563\": \"CG22NESJtoy3R1LZpQYxtx\",\r\n    \"8369978314889885300\": \"Co9JpDdPxJiF5jAis3JeXz\",\r\n    \"5250427441801842595\": \"MNMUZwQLsyH9KJSkzYqRQG\",\r\n    \"9871053989045559943\": \"LwS3ePzNgebRQ6zNp3BrmB\",\r\n    \"6699182445514165755\": \"CG22NESJtoy3R1LZpQYxtx\",\r\n    \"8381831062850392665\": \"T52joKxNb5hN5beHYJaUxo\",\r\n    \"17801579558277106729\": \"RBc6r9RwNqehU5uhhTghDc\",\r\n    \"15151050661966079652\": \"SVwJxax8grJViH1mBUDhHa\"\r\n  },\r\n  \"WorkspaceName\": \"Curiosity 4\",\r\n  \"ExtraCSS\": \".test-css{\\r\\n    display:none;\\r\\n}\",\r\n  \"ExtraHTML\": \"\",\r\n  \"AuditLoggedNodeType\": [],\r\n  \"AuditLoggedType\": [\r\n    \"Node\",\r\n    \"Search\"\r\n  ],\r\n  \"DefaultSystemChatAIProviderTaskUID\": \"2hL199ZKj87BjGzzkhenqj\",\r\n  \"DisableDesktopAppIntegration\": false,\r\n  \"DisableMemoryMappedCache\": true,\r\n  \"EnforceSingleCommitQueue\": false,\r\n  \"HashDifficulty\": 18,\r\n  \"InferencingMaps\": {\r\n    \"_AccessGroup\": {\r\n      \"_Owns\": {\r\n        \"_Owns\": {\r\n          \"EdgeType\": \"_Owns\",\r\n          \"SecondEdgeType\": \"_Owns\",\r\n          \"ResultingEdgeType\": \"_Owns\",\r\n          \"Recursive\": true\r\n        }\r\n      }\r\n    },\r\n    \"_User\": {\r\n      \"_Owns\": {\r\n        \"_Owns\": {\r\n          \"EdgeType\": \"_Owns\",\r\n          \"SecondEdgeType\": \"_Owns\",\r\n          \"ResultingEdgeType\": \"_Owns\",\r\n          \"Recursive\": true\r\n        }\r\n      }\r\n    },\r\n    \"_Link\": {\r\n      \"_OwnedBy\": {\r\n        \"_OwnedBy\": {\r\n          \"EdgeType\": \"_OwnedBy\",\r\n          \"SecondEdgeType\": \"_OwnedBy\",\r\n          \"ResultingEdgeType\": \"_OwnedBy\",\r\n          \"Recursive\": true\r\n        }\r\n      }\r\n    },\r\n    \"_Message\": {\r\n      \"_OwnedBy\": {\r\n        \"_OwnedBy\": {\r\n          \"EdgeType\": \"_OwnedBy\",\r\n          \"SecondEdgeType\": \"_OwnedBy\",\r\n          \"ResultingEdgeType\": \"_OwnedBy\",\r\n          \"Recursive\": true\r\n        }\r\n      }\r\n    },\r\n    \"_Document\": {\r\n      \"_ContentOf\": {\r\n        \"_OwnedBy\": {\r\n          \"EdgeType\": \"_ContentOf\",\r\n          \"SecondEdgeType\": \"_OwnedBy\",\r\n          \"ResultingEdgeType\": \"_OwnedBy\",\r\n          \"Recursive\": true\r\n        }\r\n      },\r\n      \"_ContentOfPage\": {\r\n        \"_OwnedBy\": {\r\n          \"EdgeType\": \"_ContentOfPage\",\r\n          \"SecondEdgeType\": \"_OwnedBy\",\r\n          \"ResultingEdgeType\": \"_OwnedBy\",\r\n          \"Recursive\": true\r\n        }\r\n      }\r\n    },\r\n    \"_Figure\": {\r\n      \"_ContentOf\": {\r\n        \"_OwnedBy\": {\r\n          \"EdgeType\": \"_ContentOf\",\r\n          \"SecondEdgeType\": \"_OwnedBy\",\r\n          \"ResultingEdgeType\": \"_OwnedBy\",\r\n          \"Recursive\": true\r\n        }\r\n      }\r\n    },\r\n    \"_FileEntry\": {\r\n      \"_OwnedBy\": {\r\n        \"_OwnedBy\": {\r\n          \"EdgeType\": \"_OwnedBy\",\r\n          \"SecondEdgeType\": \"_OwnedBy\",\r\n          \"ResultingEdgeType\": \"_OwnedBy\",\r\n          \"Recursive\": true\r\n        }\r\n      }\r\n    }\r\n  },\r\n  \"IsPublicNodeType\": [],\r\n  \"LicensedTo\": \"Curiosity\",\r\n  \"DefaultIgnoreTypes\": [\r\n    \"_Token\",\r\n    \"_Space\",\r\n    \"_SearchQuery\",\r\n    \"_AppWindow\",\r\n    \"_AIAssistantTemplate\",\r\n    \"_Command\",\r\n    \"_IssueLabel\",\r\n    \"_EmailAddress\",\r\n    \"_Repository\",\r\n    \"_StatusFlags\",\r\n    \"_SavedFacets\",\r\n    \"_Filter\",\r\n    \"_Calendar\",\r\n    \"_MessageChannel\",\r\n    \"_AccessGroup\",\r\n    \"_Transcript\",\r\n    \"_NoteLabel\",\r\n    \"_Notification\",\r\n    \"_Blob\",\r\n    \"_PinnedResult\",\r\n    \"_User\",\r\n    \"_Collection\",\r\n    \"_Alias\"\r\n  ],\r\n  \"SaveViewsOf\": [\r\n    \"_FileEntry\"\r\n  ],\r\n  \"DefaultRelatedFacets\": [\r\n    \"_AccessGroup\",\r\n    \"_EmailAddress\",\r\n    \"_StatusFlags\",\r\n    \"_Contact\",\r\n    \"_MessageChannel\",\r\n    \"_Collection\",\r\n    \"_NoteLabel\",\r\n    \"_Organization\"\r\n  ],\r\n  \"NodeTypesToExcludeFromTimestampFacet\": [\r\n    \"_Contact\",\r\n    \"_Token\",\r\n    \"_EmailAddress\",\r\n    \"_Organization\",\r\n    \"_MessageChannel\",\r\n    \"_AccessGroup\",\r\n    \"_Folder\",\r\n    \"_Collection\",\r\n    \"_Abbreviation\"\r\n  ],\r\n  \"NodeTypesToUseInferencingDuringFacetsComputation\": [],\r\n  \"Synonyms\": {\r\n    \"Any\": {\r\n      \"oil leak\": {\r\n        \"Synonyms\": [\r\n          \"hydraulic leak\"\r\n        ],\r\n        \"Alternates\": [],\r\n        \"Blocked\": []\r\n      },\r\n      \"bird strike\": {\r\n        \"Synonyms\": [\r\n          \"bird hit\"\r\n        ],\r\n        \"Alternates\": [],\r\n        \"Blocked\": []\r\n      }\r\n    }\r\n  }\r\n}"
+﻿{
+  "PipelineMapping": {
+    "16658825250174978295": "6QEMV4UU6xCJLr6s5p4kaj",
+    "158377989328712918": "Cko9bJfmjboVs1ABjeZTvn",
+    "17028683369285214394": "dBcqieijLeiWNQ4u6XWdyy",
+    "10890739575932513094": "GNvTbf1k65bCYeW5UDezT8",
+    "17840935489751241698": "7wQocEYJSdqFqhSm1sEQsy",
+    "15226646071789036563": "CG22NESJtoy3R1LZpQYxtx",
+    "8369978314889885300": "Co9JpDdPxJiF5jAis3JeXz",
+    "5250427441801842595": "MNMUZwQLsyH9KJSkzYqRQG",
+    "9871053989045559943": "LwS3ePzNgebRQ6zNp3BrmB",
+    "6699182445514165755": "CG22NESJtoy3R1LZpQYxtx",
+    "8381831062850392665": "T52joKxNb5hN5beHYJaUxo",
+    "17801579558277106729": "RBc6r9RwNqehU5uhhTghDc",
+    "15151050661966079652": "SVwJxax8grJViH1mBUDhHa"
+  },
+  "WorkspaceName": "Curiosity 4",
+  "ExtraCSS": ".test-css{\r\n    display:none;\r\n}",
+  "ExtraHTML": "",
+  "AuditLoggedNodeType": [],
+  "AuditLoggedType": [
+    "Node",
+    "Search"
+  ],
+  "AuditRetention": "Forever",
+  "DefaultSystemChatAIProviderTaskUID": "2hL199ZKj87BjGzzkhenqj",
+  "DisableDesktopAppIntegration": false,
+  "DisableMemoryMappedCache": true,
+  "EnforceSingleCommitQueue": false,
+  "HashDifficulty": 18,
+  "InferencingMaps": {
+    "_AccessGroup": {
+      "_Owns": {
+        "_Owns": {
+          "EdgeType": "_Owns",
+          "SecondEdgeType": "_Owns",
+          "ResultingEdgeType": "_Owns",
+          "Recursive": true
+        }
+      }
+    },
+    "_User": {
+      "_Owns": {
+        "_Owns": {
+          "EdgeType": "_Owns",
+          "SecondEdgeType": "_Owns",
+          "ResultingEdgeType": "_Owns",
+          "Recursive": true
+        }
+      }
+    },
+    "_Link": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_Message": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_Document": {
+      "_ContentOf": {
+        "_OwnedBy": {
+          "EdgeType": "_ContentOf",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      },
+      "_ContentOfPage": {
+        "_OwnedBy": {
+          "EdgeType": "_ContentOfPage",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_Figure": {
+      "_ContentOf": {
+        "_OwnedBy": {
+          "EdgeType": "_ContentOf",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_FileEntry": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    }
+  },
+  "IsPublicNodeType": [],
+  "LicensedTo": "Curiosity",
+  "DefaultIgnoreTypes": [
+    "_EmailAddress",
+    "_Collection",
+    "_Token",
+    "_Transcript",
+    "_Calendar",
+    "_Filter",
+    "_ConnectorRun",
+    "_Space",
+    "_Alias",
+    "_Command",
+    "_Blob",
+    "_MessageChannel",
+    "_Repository",
+    "_AccessGroup",
+    "_AIAssistantTemplate",
+    "_User",
+    "_IssueLabel",
+    "_NoteLabel",
+    "_PinnedResult",
+    "_SearchQuery",
+    "_StatusFlags",
+    "_Notification",
+    "_SavedFacets",
+    "_AppWindow"
+  ],
+  "SaveViewsOf": [
+    "_FileEntry"
+  ],
+  "DefaultRelatedFacets": [
+    "_EmailAddress",
+    "_Collection",
+    "_Contact",
+    "_MessageChannel",
+    "_Organization",
+    "_AccessGroup",
+    "_NoteLabel",
+    "_StatusFlags"
+  ],
+  "NodeTypesToExcludeFromTimestampFacet": [
+    "_EmailAddress",
+    "_Collection",
+    "_Folder",
+    "_Token",
+    "_Contact",
+    "_MessageChannel",
+    "_Organization",
+    "_AccessGroup",
+    "_Abbreviation"
+  ],
+  "NodeTypesToUseInferencingDuringFacetsComputation": [],
+  "Synonyms": {
+    "Any": {
+      "oil leak": {
+        "Synonyms": [
+          "hydraulic leak"
+        ],
+        "Alternates": [],
+        "Blocked": []
+      },
+      "bird strike": {
+        "Synonyms": [
+          "bird hit"
+        ],
+        "Alternates": [],
+        "Blocked": []
+      }
+    }
+  },
+  "ConfiguredTasks": [
+    "UserTipsTask (UserTipsTask)",
+    "DeleteOldAIChatsTask (DeleteOldAIChatsTask)",
+    "Custom Code Scheduled Task 2 (CustomCodeScheduledTask)",
+    "StoreDbStatisticsTask (StoreDbStatisticsTask)",
+    "Rss Task (RssTask)",
+    "Custom Code Scheduled Task (CustomCodeScheduledTask)",
+    "ConfigurationValidationTask (ConfigurationValidationTask)",
+    "HideEmptyContactsAndOrganizationsTask (HideEmptyContactsAndOrganizationsTask)",
+    "DropOldAuditLogsTask (DropOldAuditLogsTask)"
+  ],
+  "ConfiguredAIProviders": [
+    "OpenAI (ChatGPTTask)"
+  ],
+  "AIChatRetention": "TwoWeeks",
+  "SingleSignOnProviders": []
+}
