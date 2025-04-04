@@ -7,13 +7,6 @@
     "DataNodeField": ""
   },
   {
-    "EntityNodeType": "_Contact",
-    "EdgeTypeToEntity": "_Mentions",
-    "EdgeTypeToNode": "_AppearsIn",
-    "DataNodeType": "_FileEntry",
-    "DataNodeField": ""
-  },
-  {
     "EntityNodeType": "_Abbreviation",
     "EdgeTypeToEntity": "_Mentions",
     "EdgeTypeToNode": "_AppearsIn",
@@ -21,7 +14,21 @@
     "DataNodeField": ""
   },
   {
-    "EntityNodeType": "_Token",
+    "EntityNodeType": "_Abbreviation",
+    "EdgeTypeToEntity": "_HasAbbreviation",
+    "EdgeTypeToNode": "_AbbreviationAppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  },
+  {
+    "EntityNodeType": "_Contact",
+    "EdgeTypeToEntity": "_Mentions",
+    "EdgeTypeToNode": "_AppearsIn",
+    "DataNodeType": "_FileEntry",
+    "DataNodeField": ""
+  },
+  {
+    "EntityNodeType": "_Contact",
     "EdgeTypeToEntity": "_Mentions",
     "EdgeTypeToNode": "_AppearsIn",
     "DataNodeType": "_FileEntry",
@@ -35,16 +42,9 @@
     "DataNodeField": ""
   },
   {
-    "EntityNodeType": "_Contact",
+    "EntityNodeType": "_Token",
     "EdgeTypeToEntity": "_Mentions",
     "EdgeTypeToNode": "_AppearsIn",
-    "DataNodeType": "_FileEntry",
-    "DataNodeField": ""
-  },
-  {
-    "EntityNodeType": "_Abbreviation",
-    "EdgeTypeToEntity": "_HasAbbreviation",
-    "EdgeTypeToNode": "_AbbreviationAppearsIn",
     "DataNodeType": "_FileEntry",
     "DataNodeField": ""
   }

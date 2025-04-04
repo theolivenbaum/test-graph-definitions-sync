@@ -1,15 +1,15 @@
 ﻿{
   "Settings": [
     {
-      "Name": "Language",
-      "Type": "Enum",
-      "Value": "Italian",
-      "Values": null
-    },
-    {
       "Name": "Disable",
       "Type": "bool",
       "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "Language",
+      "Type": "Enum",
+      "Value": "Italian",
       "Values": null
     }
   ],
