@@ -1,0 +1,8 @@
+﻿{
+  "UID": "AhQZHVNmz2gevC3U2jR4Xv",
+  "Type": "_NodeRenderingSettings",
+  "Timestamp": "2025-04-03 13:46:48Z",
+  "EdgeCount": 0,
+  "Name": "MyNodeType",
+  "Definition": "{\"$type\":\"Mosaik.Components.NodeRendering.NodeRendererDefinition, Mosaik.Graph\",\"Header\":[{\"$type\":\"Mosaik.Components.NodeRendering.FieldContent, Mosaik.Graph\",\"FieldName\":\"MyKey\",\"StringFormat\":\"\",\"FieldDefinitionType\":1,\"Suffix\":null,\"PaddingLeft\":0,\"Name\":\"Field\"}],\"ContentCard\":null,\"ContentView\":{\"$type\":\"Mosaik.Components.NodeRendering.BaseContent, Mosaik.Graph\",\"Content\":[],\"Name\":\"Stack\"},\"Footer\":[],\"FooterCommands\":{\"$type\":\"Mosaik.Components.NodeRendering.FooterCommands, Mosaik.Graph\",\"AdditionalCommands\":[]},\"NodeRendererSettings\":{\"$type\":\"Mosaik.Components.NodeRendering.NodeRendererSettings, Mosaik.Graph\",\"IsLargePreview\":false,\"UserSuggestionsForFields\":[],\"UserSuggestionsForAliases\":false}}"
+}

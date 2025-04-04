@@ -1,0 +1,38 @@
+﻿{
+  "Settings": [
+    {
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "FieldName",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "MaximumBatchSize",
+      "Type": "int",
+      "Value": "10000",
+      "Values": null
+    },
+    {
+      "Name": "MaximumLength",
+      "Type": "int",
+      "Value": "500000",
+      "Values": null
+    },
+    {
+      "Name": "DenormalizeHtmlBeforeParsing",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    }
+  ],
+  "UID": "RNzaxdRksXL",
+  "NodeType": "_FileEntry",
+  "IndexType": "FieldToDocumentIndex",
+  "Tag": "Type: Mosaik.GraphDB.Indexes.FieldToDocumentIndex, Language: --, Tag: MosaikGraph-_FileEntry"
+}

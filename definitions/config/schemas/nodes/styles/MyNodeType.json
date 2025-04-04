@@ -1,0 +1,15 @@
+﻿{
+  "UID": "ZACm9QLGqBW69GR4fRaGvt",
+  "Type": "_NodeSchemaStyleSettings",
+  "Timestamp": "2025-03-26 14:40:50Z",
+  "EdgeCount": 0,
+  "Name": "MyNodeType",
+  "DisplayName": "MyNodeType 3",
+  "Description": "",
+  "Color": "#106ebe",
+  "Icon": "fi-rr-circle",
+  "LabelField": "MyKey",
+  "Metadata": {},
+  "Shortcuts": [],
+  "ChatFields": []
+}

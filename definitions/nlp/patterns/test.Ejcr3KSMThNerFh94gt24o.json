@@ -1,0 +1,12 @@
+﻿{
+  "UID": "Ejcr3KSMThNerFh94gt24o",
+  "Type": "_NlpPatternSpotter",
+  "Timestamp": "2025-04-03 09:31:28Z",
+  "EdgeCount": 0,
+  "EntityName": "test",
+  "Language": "--",
+  "NodeType": "",
+  "Patterns": [
+    "{\"Patterns\":[[{\"Mode\":1,\"Optional\":false,\"CaseSensitive\":false,\"Type\":2,\"POS\":null,\"Suffix\":null,\"Prefix\":null,\"Shape\":\"123\",\"Token\":null,\"Set\":null,\"EntityType\":null,\"LeftSide\":null,\"RightSide\":null,\"ValidChars\":null,\"MinLength\":0,\"MaxLength\":0,\"MaxMatches\":10}]],\"Name\":\"\"}"
+  ]
+}

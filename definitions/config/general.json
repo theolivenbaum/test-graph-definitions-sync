@@ -1,0 +1,198 @@
+﻿{
+  "PipelineMapping": {
+    "5250427441801842595": "MNMUZwQLsyH9KJSkzYqRQG",
+    "15226646071789036563": "CG22NESJtoy3R1LZpQYxtx",
+    "16658825250174978295": "6QEMV4UU6xCJLr6s5p4kaj",
+    "15151050661966079652": "SVwJxax8grJViH1mBUDhHa",
+    "9871053989045559943": "LwS3ePzNgebRQ6zNp3BrmB",
+    "6699182445514165755": "CG22NESJtoy3R1LZpQYxtx",
+    "17840935489751241698": "7wQocEYJSdqFqhSm1sEQsy",
+    "17801579558277106729": "RBc6r9RwNqehU5uhhTghDc",
+    "8369978314889885300": "Co9JpDdPxJiF5jAis3JeXz",
+    "10890739575932513094": "GNvTbf1k65bCYeW5UDezT8",
+    "17028683369285214394": "dBcqieijLeiWNQ4u6XWdyy",
+    "8381831062850392665": "T52joKxNb5hN5beHYJaUxo",
+    "158377989328712918": "Cko9bJfmjboVs1ABjeZTvn"
+  },
+  "WorkspaceName": "Curiosity 4",
+  "ExtraCSS": ".test-css{\r\n    display:none;\r\n}",
+  "ExtraHTML": "",
+  "AuditLoggedNodeType": [],
+  "AuditLoggedType": [
+    "Node",
+    "Search"
+  ],
+  "AuditRetention": "Forever",
+  "DefaultSystemChatAIProviderTaskUID": "2hL199ZKj87BjGzzkhenqj",
+  "DisableDesktopAppIntegration": false,
+  "DisableMemoryMappedCache": true,
+  "EnforceSingleCommitQueue": false,
+  "HashDifficulty": 18,
+  "InferencingMaps": {
+    "_AccessGroup": {
+      "_Owns": {
+        "_Owns": {
+          "EdgeType": "_Owns",
+          "SecondEdgeType": "_Owns",
+          "ResultingEdgeType": "_Owns",
+          "Recursive": true
+        }
+      }
+    },
+    "_User": {
+      "_Owns": {
+        "_Owns": {
+          "EdgeType": "_Owns",
+          "SecondEdgeType": "_Owns",
+          "ResultingEdgeType": "_Owns",
+          "Recursive": true
+        }
+      }
+    },
+    "_Link": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_Message": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_Document": {
+      "_ContentOf": {
+        "_OwnedBy": {
+          "EdgeType": "_ContentOf",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      },
+      "_ContentOfPage": {
+        "_OwnedBy": {
+          "EdgeType": "_ContentOfPage",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_Figure": {
+      "_ContentOf": {
+        "_OwnedBy": {
+          "EdgeType": "_ContentOf",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_FileEntry": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    }
+  },
+  "IsPublicNodeType": [],
+  "LicensedTo": "Curiosity",
+  "DefaultIgnoreTypes": [
+    "_Calendar",
+    "_Collection",
+    "_EmailAddress",
+    "_Filter",
+    "_Space",
+    "_Notification",
+    "_Token",
+    "_AIAssistantTemplate",
+    "_IssueLabel",
+    "_NoteLabel",
+    "_SavedFacets",
+    "_SearchQuery",
+    "_PinnedResult",
+    "_User",
+    "_Blob",
+    "_AppWindow",
+    "_MessageChannel",
+    "_ConnectorRun",
+    "_Transcript",
+    "_Alias",
+    "_AccessGroup",
+    "_Command",
+    "_StatusFlags",
+    "_Repository"
+  ],
+  "SaveViewsOf": [
+    "_FileEntry"
+  ],
+  "DefaultRelatedFacets": [
+    "_Collection",
+    "_EmailAddress",
+    "_Contact",
+    "_Organization",
+    "_NoteLabel",
+    "_MessageChannel",
+    "_AccessGroup",
+    "_StatusFlags"
+  ],
+  "NodeTypesToExcludeFromTimestampFacet": [
+    "_Collection",
+    "_EmailAddress",
+    "_Contact",
+    "_Organization",
+    "_Token",
+    "_Folder",
+    "_MessageChannel",
+    "_Abbreviation",
+    "_AccessGroup"
+  ],
+  "NodeTypesToUseInferencingDuringFacetsComputation": [],
+  "Synonyms": {
+    "Any": {
+      "oil leak": {
+        "Synonyms": [
+          "hydraulic leak"
+        ],
+        "Alternates": [],
+        "Blocked": []
+      },
+      "bird strike": {
+        "Synonyms": [
+          "bird hit"
+        ],
+        "Alternates": [],
+        "Blocked": []
+      }
+    }
+  },
+  "ConfiguredTasks": [
+    "UserTipsTask (UserTipsTask)",
+    "DeleteOldAIChatsTask (DeleteOldAIChatsTask)",
+    "Custom Code Scheduled Task 2 (CustomCodeScheduledTask)",
+    "StoreDbStatisticsTask (StoreDbStatisticsTask)",
+    "Rss Task (RssTask)",
+    "Custom Code Scheduled Task (CustomCodeScheduledTask)",
+    "HideEmptyContactsAndOrganizationsTask (HideEmptyContactsAndOrganizationsTask)",
+    "ConfigurationValidationTask (ConfigurationValidationTask)",
+    "DropOldAuditLogsTask (DropOldAuditLogsTask)"
+  ],
+  "ConfiguredAIProviders": [
+    "OpenAI (ChatGPTTask)"
+  ],
+  "AIChatRetention": "TwoWeeks",
+  "SingleSignOnProviders": []
+}
