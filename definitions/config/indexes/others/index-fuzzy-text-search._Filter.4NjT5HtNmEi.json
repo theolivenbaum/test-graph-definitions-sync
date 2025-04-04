@@ -1,21 +1,9 @@
 ﻿{
   "Settings": [
     {
-      "Name": "SearchBoostFactor",
-      "Type": "float",
-      "Value": "1",
-      "Values": null
-    },
-    {
-      "Name": "Searchable",
+      "Name": "Disable",
       "Type": "bool",
-      "Value": "True",
-      "Values": null
-    },
-    {
-      "Name": "NodeType",
-      "Type": "string",
-      "Value": null,
+      "Value": "False",
       "Values": null
     },
     {
@@ -31,21 +19,33 @@
       "Values": null
     },
     {
-      "Name": "ProducesFacets",
-      "Type": "bool",
-      "Value": "True",
-      "Values": null
-    },
-    {
-      "Name": "Disable",
-      "Type": "bool",
-      "Value": "False",
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
       "Values": null
     },
     {
       "Name": "NormalizeDiacritics",
       "Type": "bool",
       "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "ProducesFacets",
+      "Type": "bool",
+      "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "Searchable",
+      "Type": "bool",
+      "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "SearchBoostFactor",
+      "Type": "float",
+      "Value": "1",
       "Values": null
     }
   ],

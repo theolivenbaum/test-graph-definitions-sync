@@ -1,33 +1,9 @@
 ﻿{
   "Settings": [
     {
-      "Name": "EntityTypesToIgnore",
-      "Type": "String[]",
-      "Value": "",
-      "Values": null
-    },
-    {
-      "Name": "Language",
-      "Type": "Enum",
-      "Value": "French",
-      "Values": null
-    },
-    {
-      "Name": "MinimumBatchSize",
+      "Name": "ContextWindow",
       "Type": "int",
-      "Value": "0",
-      "Values": null
-    },
-    {
-      "Name": "MaximumBatchSize",
-      "Type": "int",
-      "Value": "1000000",
-      "Values": null
-    },
-    {
-      "Name": "MaximumTokensToIndex",
-      "Type": "int",
-      "Value": "100000",
+      "Value": "5",
       "Values": null
     },
     {
@@ -37,9 +13,9 @@
       "Values": null
     },
     {
-      "Name": "LearningRate",
-      "Type": "float",
-      "Value": "0.05",
+      "Name": "EntityTypesToIgnore",
+      "Type": "String[]",
+      "Value": "",
       "Values": null
     },
     {
@@ -49,21 +25,51 @@
       "Values": null
     },
     {
-      "Name": "NegativeSamplingCount",
-      "Type": "int",
-      "Value": "20",
+      "Name": "IgnoreCase",
+      "Type": "bool",
+      "Value": "True",
       "Values": null
     },
     {
-      "Name": "WordNgrams",
+      "Name": "Language",
+      "Type": "Enum",
+      "Value": "French",
+      "Values": null
+    },
+    {
+      "Name": "LearningRate",
+      "Type": "float",
+      "Value": "0.05",
+      "Values": null
+    },
+    {
+      "Name": "LossType",
+      "Type": "Enum",
+      "Value": "NegativeSampling",
+      "Values": null
+    },
+    {
+      "Name": "MaximumBatchSize",
+      "Type": "int",
+      "Value": "1000000",
+      "Values": null
+    },
+    {
+      "Name": "MaximumNgrams",
+      "Type": "int",
+      "Value": "6",
+      "Values": null
+    },
+    {
+      "Name": "MaximumTokensToIndex",
+      "Type": "int",
+      "Value": "100000",
+      "Values": null
+    },
+    {
+      "Name": "MinimumBatchSize",
       "Type": "int",
       "Value": "0",
-      "Values": null
-    },
-    {
-      "Name": "ContextWindow",
-      "Type": "int",
-      "Value": "5",
       "Values": null
     },
     {
@@ -79,21 +85,15 @@
       "Values": null
     },
     {
-      "Name": "MaximumNgrams",
+      "Name": "NegativeSamplingCount",
       "Type": "int",
-      "Value": "6",
+      "Value": "20",
       "Values": null
     },
     {
-      "Name": "LossType",
-      "Type": "Enum",
-      "Value": "NegativeSampling",
-      "Values": null
-    },
-    {
-      "Name": "IgnoreCase",
-      "Type": "bool",
-      "Value": "True",
+      "Name": "WordNgrams",
+      "Type": "int",
+      "Value": "0",
       "Values": null
     }
   ],

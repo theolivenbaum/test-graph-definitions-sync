@@ -1,15 +1,69 @@
 ﻿{
   "Settings": [
     {
-      "Name": "NodeType",
-      "Type": "string",
-      "Value": null,
+      "Name": "BackgroundMaxExtractorProcessCount",
+      "Type": "int",
+      "Value": "11",
+      "Values": null
+    },
+    {
+      "Name": "DisableOCR",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "DisableSTT",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "ExpressMaxExtractorProcessCount",
+      "Type": "int",
+      "Value": "16",
+      "Values": null
+    },
+    {
+      "Name": "ExtractAsMarkdownIfPossible",
+      "Type": "bool",
+      "Value": "True",
       "Values": null
     },
     {
       "Name": "MaximumBatchSize",
       "Type": "int",
       "Value": "50000",
+      "Values": null
+    },
+    {
+      "Name": "MaximumCPUCoresPerExtractor",
+      "Type": "int",
+      "Value": "0",
+      "Values": null
+    },
+    {
+      "Name": "MaximumFileSizeToExtractMB",
+      "Type": "int",
+      "Value": "2000",
+      "Values": null
+    },
+    {
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "OcrMaxParallelTasksCount",
+      "Type": "uint",
+      "Value": "10",
+      "Values": null
+    },
+    {
+      "Name": "OcrPdfImages",
+      "Type": "bool",
+      "Value": "False",
       "Values": null
     },
     {
@@ -22,60 +76,6 @@
       "Name": "SimultaneousRequests",
       "Type": "int",
       "Value": "20",
-      "Values": null
-    },
-    {
-      "Name": "BackgroundMaxExtractorProcessCount",
-      "Type": "int",
-      "Value": "11",
-      "Values": null
-    },
-    {
-      "Name": "MaximumCPUCoresPerExtractor",
-      "Type": "int",
-      "Value": "0",
-      "Values": null
-    },
-    {
-      "Name": "ExpressMaxExtractorProcessCount",
-      "Type": "int",
-      "Value": "16",
-      "Values": null
-    },
-    {
-      "Name": "MaximumFileSizeToExtractMB",
-      "Type": "int",
-      "Value": "2000",
-      "Values": null
-    },
-    {
-      "Name": "DisableOCR",
-      "Type": "bool",
-      "Value": "False",
-      "Values": null
-    },
-    {
-      "Name": "OcrMaxParallelTasksCount",
-      "Type": "uint",
-      "Value": "10",
-      "Values": null
-    },
-    {
-      "Name": "DisableSTT",
-      "Type": "bool",
-      "Value": "False",
-      "Values": null
-    },
-    {
-      "Name": "ExtractAsMarkdownIfPossible",
-      "Type": "bool",
-      "Value": "True",
-      "Values": null
-    },
-    {
-      "Name": "OcrPdfImages",
-      "Type": "bool",
-      "Value": "False",
       "Values": null
     }
   ],

@@ -1,9 +1,21 @@
 ﻿{
   "Settings": [
     {
+      "Name": "Disable",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
       "Name": "IgnoreCase",
       "Type": "bool",
       "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "Language",
+      "Type": "Enum",
+      "Value": "Portuguese",
       "Values": null
     },
     {
@@ -19,21 +31,9 @@
       "Values": null
     },
     {
-      "Name": "Language",
-      "Type": "Enum",
-      "Value": "Portuguese",
-      "Values": null
-    },
-    {
       "Name": "NGrams",
       "Type": "int",
       "Value": "3",
-      "Values": null
-    },
-    {
-      "Name": "TooRareCutoff",
-      "Type": "float",
-      "Value": "1E-06",
       "Values": null
     },
     {
@@ -43,9 +43,9 @@
       "Values": null
     },
     {
-      "Name": "Disable",
-      "Type": "bool",
-      "Value": "False",
+      "Name": "TooRareCutoff",
+      "Type": "float",
+      "Value": "1E-06",
       "Values": null
     }
   ],

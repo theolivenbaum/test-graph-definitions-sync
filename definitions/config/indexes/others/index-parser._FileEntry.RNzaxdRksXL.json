@@ -1,9 +1,9 @@
 ﻿{
   "Settings": [
     {
-      "Name": "NodeType",
-      "Type": "string",
-      "Value": null,
+      "Name": "DenormalizeHtmlBeforeParsing",
+      "Type": "bool",
+      "Value": "False",
       "Values": null
     },
     {
@@ -25,9 +25,9 @@
       "Values": null
     },
     {
-      "Name": "DenormalizeHtmlBeforeParsing",
-      "Type": "bool",
-      "Value": "False",
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
       "Values": null
     }
   ],

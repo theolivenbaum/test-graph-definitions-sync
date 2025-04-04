@@ -1,43 +1,25 @@
 ﻿{
   "Settings": [
     {
-      "Name": "Language",
-      "Type": "Enum",
-      "Value": "Any",
+      "Name": "Disable",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "FieldName",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "Fuzziness",
+      "Type": "nullable<int>",
+      "Value": "null",
       "Values": null
     },
     {
       "Name": "IgnoreCase",
-      "Type": "bool",
-      "Value": "True",
-      "Values": null
-    },
-    {
-      "Name": "MergePages",
-      "Type": "bool",
-      "Value": "True",
-      "Values": null
-    },
-    {
-      "Name": "SearchBoostFactor",
-      "Type": "float",
-      "Value": "1",
-      "Values": null
-    },
-    {
-      "Name": "SearchBoostFactorTitle",
-      "Type": "float",
-      "Value": "10",
-      "Values": null
-    },
-    {
-      "Name": "Searchable",
-      "Type": "bool",
-      "Value": "True",
-      "Values": null
-    },
-    {
-      "Name": "IndexStopWords",
       "Type": "bool",
       "Value": "True",
       "Values": null
@@ -61,27 +43,15 @@
       "Values": null
     },
     {
-      "Name": "MaximumTokensCount",
-      "Type": "int",
-      "Value": "100000",
+      "Name": "IndexStopWords",
+      "Type": "bool",
+      "Value": "True",
       "Values": null
     },
     {
-      "Name": "Fuzziness",
-      "Type": "nullable<int>",
-      "Value": "null",
-      "Values": null
-    },
-    {
-      "Name": "NodeType",
-      "Type": "string",
-      "Value": null,
-      "Values": null
-    },
-    {
-      "Name": "FieldName",
-      "Type": "string",
-      "Value": null,
+      "Name": "Language",
+      "Type": "Enum",
+      "Value": "Any",
       "Values": null
     },
     {
@@ -91,21 +61,51 @@
       "Values": null
     },
     {
-      "Name": "ProducesFacets",
+      "Name": "MaximumTokensCount",
+      "Type": "int",
+      "Value": "100000",
+      "Values": null
+    },
+    {
+      "Name": "MergePages",
       "Type": "bool",
       "Value": "True",
       "Values": null
     },
     {
-      "Name": "Disable",
-      "Type": "bool",
-      "Value": "False",
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
       "Values": null
     },
     {
       "Name": "NormalizeDiacritics",
       "Type": "bool",
       "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "ProducesFacets",
+      "Type": "bool",
+      "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "Searchable",
+      "Type": "bool",
+      "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "SearchBoostFactor",
+      "Type": "float",
+      "Value": "1",
+      "Values": null
+    },
+    {
+      "Name": "SearchBoostFactorTitle",
+      "Type": "float",
+      "Value": "10",
       "Values": null
     }
   ],

@@ -1,18 +1,18 @@
 ﻿{
   "PipelineMapping": {
-    "16658825250174978295": "6QEMV4UU6xCJLr6s5p4kaj",
     "158377989328712918": "Cko9bJfmjboVs1ABjeZTvn",
-    "17028683369285214394": "dBcqieijLeiWNQ4u6XWdyy",
-    "10890739575932513094": "GNvTbf1k65bCYeW5UDezT8",
-    "17840935489751241698": "7wQocEYJSdqFqhSm1sEQsy",
-    "15226646071789036563": "CG22NESJtoy3R1LZpQYxtx",
-    "8369978314889885300": "Co9JpDdPxJiF5jAis3JeXz",
     "5250427441801842595": "MNMUZwQLsyH9KJSkzYqRQG",
-    "9871053989045559943": "LwS3ePzNgebRQ6zNp3BrmB",
     "6699182445514165755": "CG22NESJtoy3R1LZpQYxtx",
+    "8369978314889885300": "Co9JpDdPxJiF5jAis3JeXz",
     "8381831062850392665": "T52joKxNb5hN5beHYJaUxo",
+    "9871053989045559943": "LwS3ePzNgebRQ6zNp3BrmB",
+    "10890739575932513094": "GNvTbf1k65bCYeW5UDezT8",
+    "15151050661966079652": "SVwJxax8grJViH1mBUDhHa",
+    "15226646071789036563": "CG22NESJtoy3R1LZpQYxtx",
+    "16658825250174978295": "6QEMV4UU6xCJLr6s5p4kaj",
+    "17028683369285214394": "dBcqieijLeiWNQ4u6XWdyy",
     "17801579558277106729": "RBc6r9RwNqehU5uhhTghDc",
-    "15151050661966079652": "SVwJxax8grJViH1mBUDhHa"
+    "17840935489751241698": "7wQocEYJSdqFqhSm1sEQsy"
   },
   "WorkspaceName": "Curiosity 4",
   "ExtraCSS": ".test-css{\r\n    display:none;\r\n}",
@@ -35,36 +35,6 @@
           "EdgeType": "_Owns",
           "SecondEdgeType": "_Owns",
           "ResultingEdgeType": "_Owns",
-          "Recursive": true
-        }
-      }
-    },
-    "_User": {
-      "_Owns": {
-        "_Owns": {
-          "EdgeType": "_Owns",
-          "SecondEdgeType": "_Owns",
-          "ResultingEdgeType": "_Owns",
-          "Recursive": true
-        }
-      }
-    },
-    "_Link": {
-      "_OwnedBy": {
-        "_OwnedBy": {
-          "EdgeType": "_OwnedBy",
-          "SecondEdgeType": "_OwnedBy",
-          "ResultingEdgeType": "_OwnedBy",
-          "Recursive": true
-        }
-      }
-    },
-    "_Message": {
-      "_OwnedBy": {
-        "_OwnedBy": {
-          "EdgeType": "_OwnedBy",
-          "SecondEdgeType": "_OwnedBy",
-          "ResultingEdgeType": "_OwnedBy",
           "Recursive": true
         }
       }
@@ -106,73 +76,103 @@
           "Recursive": true
         }
       }
+    },
+    "_Link": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_Message": {
+      "_OwnedBy": {
+        "_OwnedBy": {
+          "EdgeType": "_OwnedBy",
+          "SecondEdgeType": "_OwnedBy",
+          "ResultingEdgeType": "_OwnedBy",
+          "Recursive": true
+        }
+      }
+    },
+    "_User": {
+      "_Owns": {
+        "_Owns": {
+          "EdgeType": "_Owns",
+          "SecondEdgeType": "_Owns",
+          "ResultingEdgeType": "_Owns",
+          "Recursive": true
+        }
+      }
     }
   },
   "IsPublicNodeType": [],
   "LicensedTo": "Curiosity",
   "DefaultIgnoreTypes": [
-    "_SavedFacets",
-    "_IssueLabel",
-    "_Blob",
-    "_Token",
-    "_AIAssistantTemplate",
-    "_Collection",
-    "_Calendar",
-    "_Notification",
-    "_Filter",
-    "_Space",
-    "_AppWindow",
-    "_Repository",
     "_AccessGroup",
-    "_SearchQuery",
-    "_EmailAddress",
-    "_MessageChannel",
-    "_Command",
-    "_NoteLabel",
-    "_Transcript",
-    "_StatusFlags",
-    "_User",
+    "_AIAssistantTemplate",
     "_Alias",
+    "_AppWindow",
+    "_Blob",
+    "_Calendar",
+    "_Collection",
+    "_Command",
+    "_ConnectorRun",
+    "_EmailAddress",
+    "_Filter",
+    "_IssueLabel",
+    "_MessageChannel",
+    "_NoteLabel",
+    "_Notification",
     "_PinnedResult",
-    "_ConnectorRun"
+    "_Repository",
+    "_SavedFacets",
+    "_SearchQuery",
+    "_Space",
+    "_StatusFlags",
+    "_Token",
+    "_Transcript",
+    "_User"
   ],
   "SaveViewsOf": [
     "_FileEntry"
   ],
   "DefaultRelatedFacets": [
-    "_Contact",
-    "_Collection",
-    "_Organization",
     "_AccessGroup",
+    "_Collection",
+    "_Contact",
     "_EmailAddress",
     "_MessageChannel",
     "_NoteLabel",
+    "_Organization",
     "_StatusFlags"
   ],
   "NodeTypesToExcludeFromTimestampFacet": [
     "_Abbreviation",
-    "_Token",
-    "_Contact",
-    "_Collection",
-    "_Organization",
     "_AccessGroup",
-    "_Folder",
+    "_Collection",
+    "_Contact",
     "_EmailAddress",
-    "_MessageChannel"
+    "_Folder",
+    "_MessageChannel",
+    "_Organization",
+    "_Token"
   ],
   "NodeTypesToUseInferencingDuringFacetsComputation": [],
   "Synonyms": {
     "Any": {
-      "oil leak": {
+      "bird strike": {
         "Synonyms": [
-          "hydraulic leak"
+          "bird hit"
         ],
         "Alternates": [],
         "Blocked": []
       },
-      "bird strike": {
+      "oil leak": {
         "Synonyms": [
-          "bird hit"
+          "hydraulic leak"
         ],
         "Alternates": [],
         "Blocked": []
@@ -180,15 +180,15 @@
     }
   },
   "ConfiguredTasks": [
-    "UserTipsTask (UserTipsTask)",
-    "DeleteOldAIChatsTask (DeleteOldAIChatsTask)",
-    "Custom Code Scheduled Task 2 (CustomCodeScheduledTask)",
-    "StoreDbStatisticsTask (StoreDbStatisticsTask)",
-    "Rss Task (RssTask)",
-    "Custom Code Scheduled Task (CustomCodeScheduledTask)",
-    "HideEmptyContactsAndOrganizationsTask (HideEmptyContactsAndOrganizationsTask)",
     "ConfigurationValidationTask (ConfigurationValidationTask)",
-    "DropOldAuditLogsTask (DropOldAuditLogsTask)"
+    "Custom Code Scheduled Task (CustomCodeScheduledTask)",
+    "Custom Code Scheduled Task 2 (CustomCodeScheduledTask)",
+    "DeleteOldAIChatsTask (DeleteOldAIChatsTask)",
+    "DropOldAuditLogsTask (DropOldAuditLogsTask)",
+    "HideEmptyContactsAndOrganizationsTask (HideEmptyContactsAndOrganizationsTask)",
+    "Rss Task (RssTask)",
+    "StoreDbStatisticsTask (StoreDbStatisticsTask)",
+    "UserTipsTask (UserTipsTask)"
   ],
   "ConfiguredAIProviders": [
     "OpenAI (ChatGPTTask)"

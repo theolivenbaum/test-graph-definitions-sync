@@ -1,15 +1,9 @@
 ﻿{
   "Settings": [
     {
-      "Name": "QuantizationStrategy",
-      "Type": "Enum",
-      "Value": "Log1024_Files",
-      "Values": null
-    },
-    {
-      "Name": "NodeType",
-      "Type": "string",
-      "Value": null,
+      "Name": "Disable",
+      "Type": "bool",
+      "Value": "False",
       "Values": null
     },
     {
@@ -25,21 +19,27 @@
       "Values": null
     },
     {
-      "Name": "ProducesFacets",
-      "Type": "bool",
-      "Value": "True",
-      "Values": null
-    },
-    {
-      "Name": "Disable",
-      "Type": "bool",
-      "Value": "False",
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
       "Values": null
     },
     {
       "Name": "NormalizeDiacritics",
       "Type": "bool",
       "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "ProducesFacets",
+      "Type": "bool",
+      "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "QuantizationStrategy",
+      "Type": "Enum",
+      "Value": "Log1024_Files",
       "Values": null
     }
   ],
