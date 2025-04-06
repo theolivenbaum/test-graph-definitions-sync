@@ -33,7 +33,7 @@
     {
       "Name": "ProducesFacets",
       "Type": "bool",
-      "Value": "False",
+      "Value": "True",
       "Values": null
     }
   ],
