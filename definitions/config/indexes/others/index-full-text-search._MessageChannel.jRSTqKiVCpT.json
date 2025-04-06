@@ -99,7 +99,7 @@
     {
       "Name": "Searchable",
       "Type": "bool",
-      "Value": "True",
+      "Value": "False",
       "Values": null
     },
     {
