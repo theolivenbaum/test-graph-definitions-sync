@@ -1,0 +1,20 @@
+﻿{
+  "Settings": [
+    {
+      "Name": "Disable",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "Language",
+      "Type": "Enum",
+      "Value": "English",
+      "Values": null
+    }
+  ],
+  "UID": "TtWfeAR8Sxm",
+  "NodeType": "_Document",
+  "IndexType": "AbbreviationCapturerTrainerIndex",
+  "Tag": "Type: Mosaik.GraphDB.Indexes.AbbreviationCapturerTrainerIndex, Language: en, Tag: MosaikGraph-AbbreviationCapturerTrainer"
+}

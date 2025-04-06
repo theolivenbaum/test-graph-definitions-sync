@@ -1,0 +1,12 @@
+﻿{
+  "UID": "6QEMV4UU6xCJLr6s5p4kaj",
+  "Type": "_NlpPipeline",
+  "Timestamp": "2025-04-03 09:32:14Z",
+  "EdgeCount": 0,
+  "Name": "MosaikGraph-SearchQueryParsing-FR",
+  "Description": "",
+  "Language": "fr",
+  "Models": [
+    "QwP1zuM3Kdq67rT9QMxtKD"
+  ]
+}

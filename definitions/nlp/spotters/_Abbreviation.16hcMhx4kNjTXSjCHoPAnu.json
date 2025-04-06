@@ -1,0 +1,14 @@
+﻿{
+  "UID": "16hcMhx4kNjTXSjCHoPAnu",
+  "Type": "_NlpSpotterFromNode",
+  "Timestamp": "2025-03-25 22:21:49Z",
+  "EdgeCount": 0,
+  "NodeType": "_Abbreviation",
+  "FieldName": "AbbreviatedAs",
+  "Language": "en",
+  "IncludeAlias": false,
+  "IgnoreCase": false,
+  "IgnoreNumbers": false,
+  "MinimumLength": 0,
+  "Exceptions": []
+}

@@ -1,0 +1,64 @@
+{
+  "UID": "230",
+  "Name": "MyNodeType",
+  "Type": "Node",
+  "Key": "MyKey",
+  "Fields": [
+    {
+      "SchemaType": "Field",
+      "Name": "MyKey",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_1",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_2",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_3",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_4",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_5",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_6",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_7",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_8",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_9",
+      "Type": "string"
+    },
+    {
+      "SchemaType": "Field",
+      "Name": "StringProperty_10",
+      "Type": "string"
+    }
+  ],
+  "DeletedFieldNames": []
+}

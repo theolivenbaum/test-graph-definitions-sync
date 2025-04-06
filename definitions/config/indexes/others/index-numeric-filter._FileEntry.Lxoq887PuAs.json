@@ -1,0 +1,50 @@
+﻿{
+  "Settings": [
+    {
+      "Name": "Disable",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "FieldName",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "MaximumBatchSize",
+      "Type": "int",
+      "Value": "10000",
+      "Values": null
+    },
+    {
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "NormalizeDiacritics",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "ProducesFacets",
+      "Type": "bool",
+      "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "QuantizationStrategy",
+      "Type": "Enum",
+      "Value": "Log1024_Files",
+      "Values": null
+    }
+  ],
+  "UID": "Lxoq887PuAs",
+  "NodeType": "_FileEntry",
+  "IndexType": "NumericIndex",
+  "Tag": "Type: Mosaik.GraphDB.Indexes.NumericIndex`1[[System.Int64, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Language: --, Tag: MosaikGraph-_FileEntry-Size"
+}

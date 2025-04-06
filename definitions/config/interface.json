@@ -1,0 +1,656 @@
+﻿{
+  "Settings": [
+    {
+      "Default": null,
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "UserGuideLink",
+      "Type": "string",
+      "UpperBound": null,
+      "ValidValues": null,
+      "Value": ""
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableGraph",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableComments",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableTeams",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableApps",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableSharing",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableContacts",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableInbox",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableCalendar",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableNotes",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableClipboard",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": null,
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "RequestAccessURL",
+      "Type": "string",
+      "UpperBound": null,
+      "ValidValues": null,
+      "Value": ""
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableGuestAccount",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "AutoSignInGuest",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableSelfSignUp",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableTroubleshooting",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "EnableObsolete",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableUploads",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableEmailLogin",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableDownloads",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableHide",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableSpaces",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableUserFuzzySearch",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableCommandsOverlay",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableAIIntegration",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableAISearchByDefault",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisablePublicSpacesAllowByDefault",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableUsersCreatingSpaces",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableSearchBoxSuggestions",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableUserCustomAssistants",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableAboutPageForUsers",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "True"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableAccountPreferences",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableSearchBoxFilters",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableLanguagePreferences",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": "False",
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "DisableGlobalSearchOnChat",
+      "Type": "bool",
+      "UpperBound": null,
+      "ValidValues": [
+        "True",
+        "False"
+      ],
+      "Value": "False"
+    },
+    {
+      "Default": null,
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "AppsAllowList",
+      "Type": "Enum[]",
+      "UpperBound": null,
+      "ValidValues": [
+        "BackupTask",
+        "StoreGraphTask",
+        "ChangeIndexingThreadsTask",
+        "CustomCodeScheduledTask",
+        "RetrainModelTask",
+        "TopicAnalysisTask",
+        "WebCrawlerTask",
+        "RssTask",
+        "FtpTask",
+        "S3Task",
+        "AzureStorageTask",
+        "FolderTask",
+        "DropboxBusinessTask",
+        "DropboxPersonalTask",
+        "GoogleDriveTask",
+        "GmailTask",
+        "MicrosoftOneDriveTask",
+        "MicrosoftSharePointTask",
+        "MicrosoftTeamsTask",
+        "MicrosoftOutlookTask",
+        "MicrosoftOutlookCalendarTask",
+        "GitHubTask",
+        "ConfluenceTask",
+        "JiraTask",
+        "Pop3Task",
+        "ImapTask",
+        "ZenDeskTask",
+        "SlackTask",
+        "AirtableTask",
+        "XKCDTask",
+        "PSTTask",
+        "GoogleCalendarTask",
+        "GoogleSearchProviderTask",
+        "GoogleMapsSearchProviderTask",
+        "BingSearchProviderTask",
+        "BingMapsSearchProviderTask",
+        "HereMapsSearchProviderTask",
+        "YahooSearchProviderTask",
+        "DuckDuckGoSearchProviderTask",
+        "StackOverflowSearchProviderTask",
+        "LinkedInSearchProviderTask",
+        "TwitterSearchProviderTask",
+        "YouTubeSearchProviderTask",
+        "WikipediaSearchProviderTask",
+        "PubMedSearchProviderTask",
+        "MicrosoftAcademicSearchProviderTask",
+        "SemanticScholarSearchProviderTask",
+        "GoogleScholarSearchProviderTask",
+        "arXivSearchProviderTask",
+        "WolframAlphaSearchProviderTask",
+        "EdgeBrowserProviderTask",
+        "EdgeBetaBrowserProviderTask",
+        "EdgeDevBrowserProviderTask",
+        "ChromeBrowserProviderTask",
+        "ChromeBetaBrowserProviderTask",
+        "OperaBrowserProviderTask",
+        "VivaldiBrowserProviderTask",
+        "BraveBrowserProviderTask",
+        "FirefoxBrowserProviderTask",
+        "SafariBrowserProviderTask",
+        "NotionTask",
+        "ClipboardTask",
+        "HackerNewsTask",
+        "TwitterTask",
+        "GiphySearchProviderTask",
+        "UnsplashSearchProviderTask",
+        "IconfinderSearchProviderTask",
+        "GrepAppSearchProviderTask",
+        "SalesforceTask",
+        "PCloudPersonalTask",
+        "NotesTask",
+        "OutlookDesktopTask",
+        "EvernoteTask",
+        "ChatGPTTask",
+        "EmojiSearchProviderTask",
+        "HubSpotTask",
+        "LlamaTask",
+        "UserTipsTask",
+        "YahooImapTask",
+        "LlamaServerTask",
+        "BoxTask",
+        "AWSBedrockTask",
+        "AnthropicTask",
+        "MistralAITask"
+      ],
+      "Value": "BackupTask;StoreGraphTask;ChangeIndexingThreadsTask;CustomCodeScheduledTask;RetrainModelTask;TopicAnalysisTask;WebCrawlerTask;RssTask;FtpTask;S3Task;AzureStorageTask;FolderTask;DropboxBusinessTask;DropboxPersonalTask;GoogleDriveTask;GmailTask;MicrosoftOneDriveTask;MicrosoftSharePointTask;MicrosoftTeamsTask;MicrosoftOutlookTask;MicrosoftOutlookCalendarTask;ConfluenceTask;JiraTask;Pop3Task;ImapTask;ZenDeskTask;SlackTask;AirtableTask;XKCDTask;PSTTask;GoogleCalendarTask;GoogleSearchProviderTask;GoogleMapsSearchProviderTask;BingSearchProviderTask;BingMapsSearchProviderTask;HereMapsSearchProviderTask;YahooSearchProviderTask;DuckDuckGoSearchProviderTask;StackOverflowSearchProviderTask;LinkedInSearchProviderTask;TwitterSearchProviderTask;YouTubeSearchProviderTask;WikipediaSearchProviderTask;PubMedSearchProviderTask;MicrosoftAcademicSearchProviderTask;SemanticScholarSearchProviderTask;GoogleScholarSearchProviderTask;arXivSearchProviderTask;WolframAlphaSearchProviderTask;EdgeBrowserProviderTask;EdgeBetaBrowserProviderTask;EdgeDevBrowserProviderTask;ChromeBrowserProviderTask;ChromeBetaBrowserProviderTask;OperaBrowserProviderTask;VivaldiBrowserProviderTask;BraveBrowserProviderTask;FirefoxBrowserProviderTask;SafariBrowserProviderTask;NotionTask;ClipboardTask;HackerNewsTask;TwitterTask;GiphySearchProviderTask;UnsplashSearchProviderTask;IconfinderSearchProviderTask;GrepAppSearchProviderTask;SalesforceTask;PCloudPersonalTask;NotesTask;OutlookDesktopTask;ChatGPTTask;EmojiSearchProviderTask;HubSpotTask;LlamaTask;UserTipsTask;YahooImapTask;LlamaServerTask;BoxTask;AWSBedrockTask;AnthropicTask;MistralAITask;EvernoteTask"
+    },
+    {
+      "Default": null,
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "WorkspaceSourcesDisplaySettings",
+      "Type": "json",
+      "UpperBound": null,
+      "ValidValues": null,
+      "Value": null
+    },
+    {
+      "Default": null,
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "AICopyWarningMessage",
+      "Type": "string",
+      "UpperBound": null,
+      "ValidValues": null,
+      "Value": "test"
+    },
+    {
+      "Default": null,
+      "FeatureFlagName": null,
+      "HelpMessage": null,
+      "IsReadOnly": false,
+      "LowerBound": null,
+      "Name": "Announcement",
+      "Type": "json",
+      "UpperBound": null,
+      "ValidValues": null,
+      "Value": null
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+﻿{
+  "Settings": [
+    {
+      "Name": "Binary",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "Buckets",
+      "Type": "int",
+      "Value": "1",
+      "Values": null
+    },
+    {
+      "Name": "ChunkLength",
+      "Type": "int",
+      "Value": "512",
+      "Values": null
+    },
+    {
+      "Name": "ChunkOverlap",
+      "Type": "int",
+      "Value": "50",
+      "Values": null
+    },
+    {
+      "Name": "ChunkText",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "ClearIndexOnSettingChange",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "Debug",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "Disable",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "EnableAISearch",
+      "Type": "bool",
+      "Value": "True",
+      "Values": null
+    },
+    {
+      "Name": "ExtraTag",
+      "Type": "string",
+      "Value": "",
+      "Values": null
+    },
+    {
+      "Name": "FieldName",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "FileAgeCutoff",
+      "Type": "Enum",
+      "Value": "OneYear",
+      "Values": null
+    },
+    {
+      "Name": "FileTypes",
+      "Type": "json",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "InferencingCores",
+      "Type": "int",
+      "Value": "1",
+      "Values": null
+    },
+    {
+      "Name": "InjectResultCutoff",
+      "Type": "float",
+      "Value": "0.7",
+      "Values": null
+    },
+    {
+      "Name": "MaximumBatchSize",
+      "Type": "int",
+      "Value": "50",
+      "Values": null
+    },
+    {
+      "Name": "MaximumChunks",
+      "Type": "int",
+      "Value": "100",
+      "Values": null
+    },
+    {
+      "Name": "MinimumLength",
+      "Type": "int",
+      "Value": "0",
+      "Values": null
+    },
+    {
+      "Name": "NodeType",
+      "Type": "string",
+      "Value": null,
+      "Values": null
+    },
+    {
+      "Name": "NormalizeDiacritics",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "ParallelInferencing",
+      "Type": "int",
+      "Value": "0",
+      "Values": null
+    },
+    {
+      "Name": "ProducesFacets",
+      "Type": "bool",
+      "Value": "False",
+      "Values": null
+    },
+    {
+      "Name": "RerankResultCutoff",
+      "Type": "float",
+      "Value": "0.6",
+      "Values": null
+    },
+    {
+      "Name": "ResultsToExpand",
+      "Type": "int",
+      "Value": "500",
+      "Values": null
+    },
+    {
+      "Name": "SentenceEncoderModel",
+      "Type": "Enum",
+      "Value": "ArcticXS",
+      "Values": null
+    },
+    {
+      "Name": "SourcesToIndex",
+      "Type": "String[]",
+      "Value": "",
+      "Values": null
+    }
+  ],
+  "UID": "f7Yj2fEY1Pu",
+  "NodeType": "_Note",
+  "IndexType": "SentenceEmbeddingsIndex",
+  "Tag": "Type: Mosaik.GraphDB.Indexes.SentenceEmbeddingsIndex, Language: --, Tag: MosaikGraph-_Note-Title-ArcticXS"
+}

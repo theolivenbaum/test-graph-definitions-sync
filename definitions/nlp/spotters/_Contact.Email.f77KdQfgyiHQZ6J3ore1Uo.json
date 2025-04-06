@@ -1,0 +1,14 @@
+﻿{
+  "UID": "f77KdQfgyiHQZ6J3ore1Uo",
+  "Type": "_NlpSpotterFromNode",
+  "Timestamp": "2025-03-25 21:28:33Z",
+  "EdgeCount": 0,
+  "NodeType": "_Contact",
+  "FieldName": "Email",
+  "Language": "--",
+  "IncludeAlias": true,
+  "IgnoreCase": false,
+  "IgnoreNumbers": true,
+  "MinimumLength": 4,
+  "Exceptions": []
+}
